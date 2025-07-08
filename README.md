@@ -1,4 +1,4 @@
-# 📚 Quantum Bookstore
+# 📚 Fawry Bookstore
 
 **Fawry Bookstore** is a simplified and extensible Java-based simulation of an online bookstore system. It demonstrates clean object-oriented design with support for multiple book types, inventory management, and unit testing.
 
